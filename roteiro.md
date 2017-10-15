@@ -19,58 +19,58 @@ O jogo começa após o encontro de Carter com o Bluehand. Cada fase ocorrerá em
 
 # PERSONAGENS
 
-##Capitã Agnes Carter:
+## Capitã Agnes Carter:
 
 
-###História: 
+### História: 
 Agnes Carter, conhecida como ser a primeira mulher a se tornar integrante da SEALs nasceu e viveu nos Estados Unidos apesar de ser filha de uma brasileira com um americano. Sua trajetória no exército americano esteve estampada na casa de seus pais, paredes repletas de condecorações e fotos da filha.
 
-###Personalidade:
+### Personalidade:
 Fria, calculista e extremamente pragmática.
 
-###Habilidade:
+### Habilidade:
 Uso de armas de fogo de diferentes tipos.
 
-###Ações:
+### Ações:
 Andar e atirar para proteger o Bluehand.
 
-###Métricas:
+### Métricas:
 - Pontos de vida: 100 hp
 - Balas: Ilimitadas
 
-##Cedric von Sagan - Bluehand:
+## Cedric von Sagan - Bluehand:
 
 
-###História:
+### História:
 Não muito alto e magricela,  Cedric von Sagan foi um daqueles meninos prodígios, sabia mais do que todos as crianças da sua idade, terminou a escola adiantado e entrou na faculdade de física ainda garoto. Agora com sua meia idade colecionava P.H.Ds e diversos prêmios nas variadas ciências. Suas férias em Pipa prometiam o descanso tão aguardado, porém a invasão o tirou do título de turista para, agora, refugiado.
 
-###Personalidade:
+### Personalidade:
 Tímido, recluso e extremamente inteligente.
 
-###Ações:
+### Ações:
 Andar no mapa buscando a melhor saída.
 
-#GAMEPLAY
+# GAMEPLAY
 
-##Mecânica do jogo:
+## Mecânica do jogo:
 O bluehand andará aleatoriamente no mapa buscando a melhor saída, o jogador (Agente Carter) deverá protegê-lo. Ao longo do caminho as hordas de alienígenas tentarão grudar em ambos os personagens e poderão ser mortos com tiros pela Agente Carter. É possível coletar itens ao longo do mapa para aumentar a velocidade do tiro, se curar ou curar o bluehand e para aumentar a pontuação na missão.
 
-##Perspectiva:
+## Perspectiva:
 Top-Down
 
-##Fases:
+## Fases:
 5 fases divididas por hordas de alienígenas. A primeira fase tem 10 alienígenas e a cada nova fase o número de inimigos duplica.
 
-##Condição de vitória:
+## Condição de vitória:
 Proteger o Bluehand das 5 hordas.
 
-##Condição de derrota:
+## Condição de derrota:
 Morrer, matar o bluehand, (tiros acidentais) ou deixar o bluehand morrer. O usuário morre ao chegar a 0 de vida.
 
-##Combate:
+## Combate:
 Ao encostar em um alienígena a vida diminui em 25 de hp por segundo (Agente Carter ou o Bluehand). Os alienígenas tentaram grudar nos personagens do jogo para matá-los. Cada tiro que a Agente Carter acertar acidentalmente no Bluehand tirarão 25 de hp do mesmo. A Metralhadora tira 50 de hp de um alienígena, caso ele seja dos tipos: x, y, z, receberá adicional de dano de 50 de hp, pois eles não tem uma couraça rígida o suficiente. O raio laser tira 50 de hp de um alienígena, caso ele seja do tipo a ou b receberá um adicional de dano de 50 de hp, pois o calor tem maior impacto nestes alienígenas.
 
-##Pontuação:
+## Pontuação:
 Para cada alienígena morto o jogador recebe 10 pontos. Existem também, itens alienígenas que aparecerão aleatoriamente no mapa:
 - Kit médico: recupera 50 de hp e o jogador ganha 5 pontos.
 - Tecnologias alienígenas:
