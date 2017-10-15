@@ -1,4 +1,4 @@
-# bluehand-rescue
+# Bluehand Rescue - Game
 Repositório de desenvolvimento do jogo Bluehand Rescue criado na disciplina de Desenvolvimento de Jogos - IFRN.
 
 # Proposta
