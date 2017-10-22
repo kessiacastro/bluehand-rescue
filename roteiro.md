@@ -78,3 +78,90 @@ Para cada alienígena morto o jogador recebe 10 pontos. Existem também, itens a
 - Micro computador: 50 pontos.
 - Essência alienígena: 70 pontos.
 - Amplificador de arma: aumenta a velocidade dos tiros e o jogador ganha 25 pontos.
+
+# Câmera:
+A câmera do jogo irá seguir uma perspectiva Top-Down e será travada no personagem principal.
+
+# INIMIGOS
+
+## Espécies de alienígenas:
+É um erro comum dos leigos e até de ufologos amadores achar que só existe uma espécie alienígena visitando a Terra: os “homenzinhos de pele cinzenta,  de olhos grandes e sem pálpebras”, já apelidados de grey. Na verdade, o espaço sideral está povoado por incontáveis raças, algumas inteligentes e outras não, e várias já estiveram (ou estão) em nosso planeta. Esse é um conhecimento importante para todos que desejam combater essa ameaça, porque cada tipo de criatura tem suas próprias armas, poderes, veículos e vulnerabilidades. Saber reconhecer com precisão um espécime e classificá-lo é o primeiro passo para escapar com vida de um encontro.
+
+## Anunaki: 
+Mencionados pela primeira vez nas tábuas cuneiformes sumérias, são descritos como seres de crânio grande, alongado, grandes olhos vermelhos e três protuberâncias na cabeça, semelhante a chifres. Medem entre 1,20m e 1,40m.
+
+### Velocidade:
+Média
+### Fraqueza:
+Metralhadora
+
+## Grey: Pele cinzenta, olhos grandes e negros, sem pálpebras, nariz pequeno, supressão do dedo mínimo e total ausência de pelos no corpo. Algumas testemunhas os descrevem como não tendo bocas. Altura média de 1,30m.
+
+### Velocidade:
+Média
+### Fraqueza:
+Metralhadora
+
+## Zeta:
+Uma variação comum dos grey, com as mesmas caracteristicas, porém mais altos (1,80m - 2,20m), de pescoço comprido e pele ligeiramente amarronzada. 
+
+### Velocidade:
+Rápido
+### Fraqueza:
+Metralhadora
+
+## Saurianos:
+Possuem traços parecidos aos do répteis de nosso planeta. Bocas largas, olhos grandes e redondos e escamas (ou algo parecido) cobrindo o corpo. Altura próxima à humana (1,70m - 1,90m). 
+
+### Velocidade:
+Rápido
+### Fraqueza:
+Metralhadora
+
+## Yeti:
+Essa espécie grande e peluda recebeu esse nome numa referência à palavra tibetana para designar o Abominável Homem das Neves. Apareceram em poucos relatos e demonstram ter uma anatomia totalmente adversa daquela dos clássicos grey.
+
+### Velocidade:
+Lenta
+### Fraqueza:
+Laser
+
+## Nórdicos:
+O nome é uma alusão aos humanos nórdicos, de cabelos louros e olhos claros. Esses extraterrestres são os mais parecidos conosco. De tez muito pálida, são frequentemente confundidos com os anjos cristãos. Usam roupa em forma de túnica, feitas com um tipo de tecido brilhante.
+
+### Velocidade:
+Média
+### Fraqueza:
+Laser
+
+Durante as hordas, sempre haverá cada uma das espécies, porém, sua quantidade será determinada aleatoriamente de acordo com cada onda de inimigos. Os inimigos apenas irão tentar alcançar o Bluehand e ‘encostar’ nele, caso isso aconteça, o mesmo perderá pontos de vida. É válidos ressaltar, que caso a agente Carter ‘encoste’ em algum inimigo, ela também perderá pontos de vida.
+
+Caso o jogador use a arma que é a fraqueza do inimigo, apenas um disparo será necessário para destruí-lo. Caso contrário, o jogador precisará efetuar dois disparos.
+
+# UNIVERSO DO JOGO
+
+## Descrição do cenário:
+O jogo está se passando exatamente durante guerra entre os humanos e alienígenas, ou seja, a ambientação pode ser descrita como um campo de batalha, completamente destruído devido a tiros e explosões de ambos os lados.
+
+O Bluehand e a agente Carter estão indo em direção ao ‘ponto de controle’ para serem resgatados pelos SEALs. Entre as 5 ondas existentes, eles irão passar por 5 partes da cidade de Goianinha até serem resgatados.
+
+## Música:
+Como o jogo possui um ritmo frenético de ação, com vários tipos de inimigos, que estão tentando o tempo todo alcançar o Bluehand, a música tende a ser mais acelerada, a fim de representar a adrenalina do combate.
+
+# CUTSCENES
+
+## Cutscene Inicial:
+Existirá uma cutscene inicial fazendo um breve resumo sobre a situação mundial e apresentando a agente Carter, será apenas uma tela preta com o texto, apenas para impactar inicialmente o jogador.
+
+## Primeiro diálogo:
+Ao encontrar o Bluehand, a agente Carter irá informar o porquê de sua aparição e também passar algumas instruções para o Bluehand.
+
+## Instruções (Controles):
+No fim do primeiro diálogo, irá aparecer uma tela com os controles do jogo, o sistema de pontuação, tipos de armas e as vulnerabilidade dos inimigos.
+
+## Fim de cada horda:
+Ao fim de cada horda, um contador de 10 segundos irá aparecer, servindo de intervalo, para que o jogador possa se preparar para a próxima onda de inimigos.
+Final do Jogo (Sucesso): Se o jogador vencer todas as ondas, uma tela irá aparecer e parabenizar o jogador pelo sucesso da missão, informando a sua pontuação final. Irá aparecer também, uma opção de jogar novamente.
+
+## Final do Jogo (Fracasso):
+Se o jogador perder, uma tela preta irá aparecer, informando o trágico destino da humanidade, ela também informará a pontuação final do jogador e aparecerá uma opção de jogar novamente.
